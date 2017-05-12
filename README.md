@@ -9,9 +9,13 @@ Exemplo	de entrada:
 Exemplo	de saída, assumindo origem **= Bucharest** e destino **= Arad**:
 
 >Bucharest 0
+
 >Pitesti 101
+
 >Rimnicu Vilcea 198
+
 >Sibiu 278
+
 >Arad 418
 
 ![Alt text](./mapa-romenia.png?raw=true "Mapa Romenia")
