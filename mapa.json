@@ -1,0 +1,258 @@
+{
+    "cidades" : [{
+      "cidade" : "Oradea",
+      "latitude" : 47.0465005,
+      "longitude" : 21.9189438,
+      "vizinhos" : [{
+        "nome" : "Zerind",
+        "distancia" : 71
+      },{
+        "nome" : "Sibiu",
+        "distancia" : 151
+      }]
+    },{
+      "cidade" : "Zerind",
+      "latitude" : 46.6225105,
+      "longitude" : 21.5174194,
+      "vizinhos" : [{
+        "nome" : "Oradea",
+        "distancia" : 71
+      },
+      {
+        "nome" : "Arad",
+        "distancia" : 75
+      }]
+    },{
+      "cidade" : "Arad",
+      "latitude" : 46.1865606,
+      "longitude" : 21.3122677,
+      "vizinhos" : [{
+        "nome" : "Zerind",
+        "distancia" : 75
+      },
+      {
+        "nome" : "Timisoara",
+        "distancia" : 118
+      },
+      {
+        "nome" : "Sibiu",
+        "distancia" : 140
+      }]
+    },{
+      "cidade" : "Sibiu",
+      "latitude" : 45.7983273,
+      "longitude" : 24.1255826,
+      "vizinhos" : [{
+        "nome" : "Rimnicu Vilcea",
+        "distancia" : 80
+      },
+      {
+        "nome" : "Fagaras",
+        "distancia" : 99
+      },
+      {
+        "nome" : "Arad",
+        "distancia" : 140
+      },
+      {
+        "nome" : "Oradea",
+        "distancia" : 151
+      }]
+    },{
+      "cidade" : "Timisoara",
+      "latitude" : 45.7488716,
+      "longitude" : 21.2086793,
+      "vizinhos" : [{
+        "nome" : "Lugoj",
+        "distancia" : 111
+      },
+      {
+        "nome" : "Arad",
+        "distancia" : 118
+      }]
+    },{
+      "cidade" : "Lugoj",
+      "latitude" : 45.6909898,
+      "longitude" : 21.9034608,
+      "vizinhos" : [{
+        "nome" : "Mehadia",
+        "distancia" : 70
+      },
+      {
+        "nome" : "Timisoara",
+        "distancia" : 111
+      }]
+    },{
+      "cidade" : "Mehadia",
+      "latitude" : 44.9041136,
+      "longitude" : 22.3645155,
+      "vizinhos" : [{
+        "nome" : "Lugoj",
+        "distancia" : 70
+      },
+      {
+        "nome" : "Drobeta",
+        "distancia" : 75
+      }]
+    },{
+      "cidade" : "Drobeta",
+      "latitude" : 44.6369227,
+      "longitude" : 22.6597342,
+      "vizinhos" : [{
+        "nome" : "Mehadia",
+        "distancia" : 75
+      },
+      {
+        "nome" : "Craiova",
+        "distancia" : 120
+      }]
+    },{
+      "cidade" : "Craiova",
+      "latitude" : 44.3301785,
+      "longitude" : 23.7948808,
+      "vizinhos" : [{
+        "nome" : "Drobeta",
+        "distancia" : 120
+      },
+      {
+        "nome" : "Pitesti",
+        "distancia" : 138
+      },
+      {
+        "nome" : "Rimnicu Vilcea",
+        "distancia" : 146
+      }]
+    },{
+      "cidade" : "Pitesti",
+      "latitude" : 44.8564798,
+      "longitude" : 24.8691824,
+      "vizinhos" : [{
+        "nome" : "Rimnicu Vilcea",
+        "distancia" : 97
+      },
+      {
+        "nome" : "Bucharest",
+        "distancia" : 101
+      },
+      {
+        "nome" : "Craiova",
+        "distancia" : 138
+      }]
+    },{
+      "cidade" : "Rimnicu Vilcea",
+      "latitude" : 45.0996753,
+      "longitude" : 24.3693179,
+      "vizinhos" : [{
+        "nome" : "Sibiu",
+        "distancia" : 80
+      },
+      {
+        "nome" : "Pitesti",
+        "distancia" : 97
+      },
+      {
+        "nome" : "Craiova",
+        "distancia" : 146
+      }]
+    },{
+      "cidade" : "Fagaras",
+      "latitude" : 45.8416403,
+      "longitude" : 24.9730954,
+      "vizinhos" : [{
+        "nome" : "Sibiu",
+        "distancia" : 99
+      },
+      {
+        "nome" : "Bucharest",
+        "distancia" : 211
+      }]
+    },{
+      "cidade" : "Giurgiu",
+      "latitude" : 43.9037076,
+      "longitude" : 25.9699265,
+      "vizinhos" : [{
+        "nome" : "Bucharest",
+        "distancia" : 90
+      }]
+    },{
+      "cidade" : "Bucharest",
+      "latitude" : 44.4267674,
+      "longitude" : 26.1025384,
+      "vizinhos" : [{
+        "nome" : "Urziceni",
+        "distancia" : 85
+      },{
+        "nome" : "Giurgiu",
+        "distancia" : 90
+      },{
+        "nome" : "Pitesti",
+        "distancia" : 101
+      },{
+        "nome" : "Fagaras",
+        "distancia" : 211
+      }]
+    },{
+      "cidade" : "Urziceni",
+      "latitude" : 44.718056,
+      "longitude" : 26.645278,
+      "vizinhos" : [{
+        "nome" : "Bucharest",
+        "distancia" : 85
+      },{
+        "nome" : "Hirsova",
+        "distancia" : 98
+      },{
+        "nome" : "Vaslui",
+        "distancia" : 142
+      }]
+    },{
+      "cidade" : "Hirsova",
+      "latitude" : 44.6893481,
+      "longitude" : 27.9456552,
+      "vizinhos" : [{
+        "nome" : "Eforie",
+        "distancia" : 86
+      },{
+        "nome" : "Urziceni",
+        "distancia" : 98
+      }]
+    },{
+      "cidade" : "Eforie",
+      "latitude" : 44.049114,
+      "longitude" : 28.652727,
+      "vizinhos" : [{
+        "nome" : "Hirsova",
+        "distancia" : 86
+      }]
+    },{
+      "cidade" : "Vaslui",
+      "latitude" : 46.6406915,
+      "longitude" : 27.7276468,
+      "vizinhos" : [{
+        "nome" : "Iasi",
+        "distancia" : 92
+      },{
+        "nome" : "Urziceni",
+        "distancia" : 142
+      }]
+    },{
+      "cidade" : "Iasi",
+      "latitude" : 47.1584549,
+      "longitude" : 27.6014418,
+      "vizinhos" : [{
+        "nome" : "Neamt",
+        "distancia" : 87
+      },{
+        "nome" : "Vaslui",
+        "distancia" : 92
+      }]
+    },{
+      "cidade" : "Neamt",
+      "latitude" : 46.9758685,
+      "longitude" : 26.3818764,
+      "vizinhos" : [{
+        "nome" : "Iasi",
+        "distancia" : 87
+      }]
+    }
+]}
